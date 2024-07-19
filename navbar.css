@@ -9,7 +9,7 @@ img
     justify-content:start;
     align-items:start;
     position:absolute;
-    top:3px;
+    top:auto;
     left:80px;
 
 }
